@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Old Mutual\'s Registry',
     description: 'A curated list of Old Mutual Workspaces',
     icon: '/img/logo.svg',
-    listUrl: 'https://old.mutual.github.io/kasm-registry/',
+    listUrl: 'https://mantaray-rk.github.io/kasm-registry/',
     contactUrl: 'https://github.com/mantaray-rk/kasm-registry/issues',
   },
   reactStrictMode: true,
